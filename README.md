@@ -1,1 +1,3 @@
-#hi
+## Profile 👋
+Haewoo Kim
+* Kookmin Univ
