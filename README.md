@@ -14,6 +14,7 @@ Haewoo Kim
 | 연도 | 주최 | 내용 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2022 | Dacon | 전화 해지 여부 분류 AI 경진대회 | 개인 | [링크](https://github.com/KimHaeWoo-kookmin/Dacon_cancel_call) |
+| 2022 | Dacon | 유전체 정보 품종 분류 AI 경진대회 | 팀장 | [링크](https://github.com/KimHaeWoo-kookmin/dacon_genetic_information) |
 
 
 ## Project
