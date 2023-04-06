@@ -19,4 +19,4 @@ Haewoo Kim
 ## Project
 | 연도 | 분류 | 프로젝트명 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
-| 2022 | ML | 개인정보들을 이용한 연봉예 | 팀 | [링크]([https://github.com/jinho5913/NLP_Receipt-data-NER](https://github.com/KimHaeWoo-kookmin/Machine_Learning_project)) |
+| 2022 | ML | 개인정보들을 이용한 연봉예측 | 팀 | [링크](https://github.com/KimHaeWoo-kookmin/Machine_Learning_project)) |
