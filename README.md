@@ -14,14 +14,14 @@ Haewoo Kim
 | 연도 | 주최 | 내용 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2022 | Dacon | 전화 해지 여부 분류 AI 경진대회 | 개인 | [링크](https://github.com/KimHaeWoo-kookmin/Dacon_cancel_call) |
-| 2022 | Dacon | 유전체 정보 품종 분류 AI 경진대회 | 팀장 | [링크](https://github.com/KimHaeWoo-kookmin/dacon_genetic_information) |
+| 2022 | Dacon | 유전체 정보 품종 분류 AI 경진대회 | 팀원 | [링크](https://github.com/KimHaeWoo-kookmin/dacon_genetic_information) |
 
 
 ## Project
 | 연도 | 분류 | 프로젝트명 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2022 | ML | 개인정보들을 이용한 연봉예측 | 팀장 | [링크](https://github.com/KimHaeWoo-kookmin/Machine_Learning_project) |
-| 2022 | 데이터분석 | 2년간의 코로나 기간동안 업종들의 데이터를 분석 | 팀 | [링크](https://github.com/KimHaeWoo-kookmin/Visualization) |
+| 2022 | 데이터분석 | 2년간의 코로나 기간동안 업종들의 데이터를 분석 | 팀장 | [링크](https://github.com/KimHaeWoo-kookmin/Visualization) |
 
 
 ## Study
