@@ -16,6 +16,10 @@ Haewoo Kim
 | 2022 | Dacon | 전화 해지 여부 분류 AI 경진대회 | 개인 | [링크](https://github.com/KimHaeWoo-kookmin/Dacon_cancel_call) | | 
 | 2022 | Dacon | 유전체 정보 품종 분류 AI 경진대회 | 팀원 | [링크](https://github.com/KimHaeWoo-kookmin/dacon_genetic_information) |  |
 | 2023 | BDA | 데이터 분석 활용 공모전 | 팀장 | [링크](https://github.com/KimHaeWoo-kookmin/BDA_modeling) | 본선진출 |
+| 2023 | 국민대학교 기후변화대응 사업단 | 기후변화대응 비즈니스 아이디어 공모전 | 팀 | [링크](https://github.com/KimHaeWoo-kookmin/Climate_Change_Response) | 최우수상 |
+| 2023 | 새만금개발청 | 새만금 공공·빅데이터 활용 공모전 | 팀장 | [링크](https://github.com/KimHaeWoo-kookmin/Saemangeum_BigData) | 본선진출 |
+| 2023 | HD한국조선해양 AI Center | HD현대 AI Challenge 예선 | 팀원 | [링크](https://github.com/KimHaeWoo-kookmin/HD_Hyundai_AI_Challenge_preliminary_contest) | 2위 |
+| 2023 | HD한국조선해양 AI Center | HD현대 AI Challenge 본선 | 팀 | [링크](https://github.com/KimHaeWoo-kookmin/HD_Hyundai_AI_Challenge_main_contest-) |  |
 
 ## Project
 | 연도 | 분류 | 프로젝트명 | 역할 | 비고 |
