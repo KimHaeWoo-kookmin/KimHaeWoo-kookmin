@@ -28,7 +28,7 @@ Haewoo Kim
 | 2022 | ML | 개인정보들을 이용한 연봉예측 | 팀장 | [링크](https://github.com/KimHaeWoo-kookmin/Machine_Learning_project) |
 | 2023 | 크롤링 | 무신사 리뷰 크롤링 및 분석 | 개인 | [링크](https://github.com/KimHaeWoo-kookmin/Mosinsa_crawling) |
 | 2023 | 데이터분석 | 집값과 경제지표들관의 통계적 관계를 알기위한 다변량통계 분석 프로젝트 | 개인 | [링크](https://github.com/KimHaeWoo-kookmin/Mosinsa_crawling) |
-| 2023 | 비디오데이터변 | 옛날 영화 영상 현재 디스플레이에 맞게 리타겟팅 + 화질개선 | 팀 | [링크](https://github.com/KimHaeWoo-kookmin/Video_Retargeting_Super_Resolution) |
+| 2023 | 비디오데이터변환 | 옛날 영화 영상 현재 디스플레이에 맞게 리타겟팅 + 화질개선 | 팀 | [링크](https://github.com/KimHaeWoo-kookmin/Video_Retargeting_Super_Resolution) |
 
 
 ## Study
