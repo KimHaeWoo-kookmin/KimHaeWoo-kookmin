@@ -24,8 +24,9 @@ Haewoo Kim
 ## Project
 | 연도 | 분류 | 프로젝트명 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
-| 2022 | ML | 개인정보들을 이용한 연봉예측 | 팀장 | [링크](https://github.com/KimHaeWoo-kookmin/Machine_Learning_project) |
 | 2022 | 데이터분석 | 2년간의 코로나 기간동안 업종들의 데이터를 분석 | 팀장 | [링크](https://github.com/KimHaeWoo-kookmin/Visualization) |
+| 2022 | ML | 개인정보들을 이용한 연봉예측 | 팀장 | [링크](https://github.com/KimHaeWoo-kookmin/Machine_Learning_project) |
+| 2023 | 크롤링 | 무신사 리뷰 크롤링 및 분석 | 개인 | [링크](https://github.com/KimHaeWoo-kookmin/Mosinsa_crawling) |
 
 
 ## Study
