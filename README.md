@@ -27,6 +27,7 @@ Haewoo Kim
 | 2022 | 데이터분석 | 2년간의 코로나 기간동안 업종들의 데이터를 분석 | 팀장 | [링크](https://github.com/KimHaeWoo-kookmin/Visualization) |
 | 2022 | ML | 개인정보들을 이용한 연봉예측 | 팀장 | [링크](https://github.com/KimHaeWoo-kookmin/Machine_Learning_project) |
 | 2023 | 크롤링 | 무신사 리뷰 크롤링 및 분석 | 개인 | [링크](https://github.com/KimHaeWoo-kookmin/Mosinsa_crawling) |
+| 2023 | 데이터분석 | 집값과 경제지표들관의 통계적 관계를 알기위한 다변량통계 분석 프로젝트 | 개인 | [링크](https://github.com/KimHaeWoo-kookmin/Mosinsa_crawling) |
 
 
 ## Study
